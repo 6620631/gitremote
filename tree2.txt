@@ -18,7 +18,7 @@
                     <li>bare</li>
                     <li>blue</li>
                     <li>green</li>
-                    <li></li>
+                    <li>black</li>
                     <li></li>
                     <li></li>
                     <li></li>
