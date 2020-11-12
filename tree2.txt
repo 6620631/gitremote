@@ -19,11 +19,11 @@
                     <li>blue</li>
                     <li>green</li>
                     <li>black</li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>2</li>
+                    <li>2</li>
+                    <li>2</li>
+                    <li>2</li>
+                    <li>2</li>
                 </ol>     
             </div>
         <div class="accordion"><h1>Basic Commands</h1></div>
