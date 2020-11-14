@@ -37,8 +37,8 @@
                     <li></li>
                     <li></li>
                     <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>red</li>
+                    <li>red</li>
                 </ol>
             </div>
         </div>
