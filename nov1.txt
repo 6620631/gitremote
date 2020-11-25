@@ -1,9 +1,0 @@
-<section>
-        <div class="accordion"><h1>Terminologys</h1></div>
-            <div class="panel">
-                <ol>
-                    <li>bare</li>
-                    <li>bare</li>
-                    <li>blue</li>
-                    <li>green</li>
-                    <li>black1111</li>

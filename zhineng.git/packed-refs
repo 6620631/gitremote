@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+713a054de13863f6db1d20ec943a25adde15e386 refs/heads/Head001
+6a56bc1ef0b58e01bb2f4820734f8aceb8faefe6 refs/heads/Head002
+5a1f1195608392cf96d14b7b45761cbeaa029436 refs/heads/av
+e015665bc6f8ef959dbd0a546aadfac95ecfeece refs/heads/fenzhi
+49f1cbc91a69174add0d55ccdb59f56cfc5140c5 refs/heads/master
+364c9a714cd860f6a6e86e8c351075c7b4ffef22 refs/heads/newbranch001
+364c9a714cd860f6a6e86e8c351075c7b4ffef22 refs/heads/newbranch003
+364c9a714cd860f6a6e86e8c351075c7b4ffef22 refs/heads/newbranch004
+bf3d5a742a1cf64a95146218b0de67cf47fd419d refs/tags/tag1
+^82cb7f805c3f58851000e322882580a8150240c0

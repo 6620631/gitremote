@@ -19,26 +19,27 @@
                     <li>blue</li>
                     <li>green</li>
                     <li>black</li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>2</li>
+                    <li>2</li>
+                    <li>2</li>
+                    <li>2</li>
+                    <li>2</li>
                 </ol>     
             </div>
         <div class="accordion"><h1>Basic Commands</h1></div>
             <div class="panel">
                 <ol>
+                    <li>black</li>
+                    <li>black</li>
+                    <li>tree1-2new</li>
+                    <li>remotenew</li>
+                    <li>white</li>
                     <li></li>
                     <li></li>
                     <li></li>
                     <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>red</li>
+                    <li>red</li>
                 </ol>
             </div>
         </div>
